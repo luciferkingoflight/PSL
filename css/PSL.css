@@ -1,6 +1,6 @@
     @font-face {
         font-family: "Blair-ITC";
-        src: url(C:\Users\osoi\Desktop\front\learning\PSL\font\Blair-ITC-Medium.otf);
+        src: url("../font/Blair-ITC-Medium.otf") format("opentype");
     }
 
     body{
